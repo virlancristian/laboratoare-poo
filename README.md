@@ -4,8 +4,8 @@
 ### OBS: Aici nu apar primele doua laboratoare deoarece au fost dedicate pentru conceptele de baza ale limbajului. 
 
 
-#### Cateva informatii despre fiecare laborator:
-#### Laboratorul 3: caracteristicile de baza ale unei clase(atribute, metode, constructor/deconstructor) si incapsulare
-#### Laboratorul 4: functii friend
-#### Laboratorul 5: supradefinire de operatori
-#### Laboratorul 6: mostenire
+### Cateva informatii despre fiecare laborator:
+### Laboratorul 3: caracteristicile de baza ale unei clase(atribute, metode, constructor/deconstructor) si incapsulare
+### Laboratorul 4: functii friend
+### Laboratorul 5: supradefinire de operatori
+### Laboratorul 6: mostenire
